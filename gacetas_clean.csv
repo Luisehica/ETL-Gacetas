@@ -1,0 +1,706 @@
+numero_gaceta,entidad,fecha_publicacion,pagina_en_web,url,pagina
+1,Senado de la República,2021-01-27,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_01.pdf,50
+2,Senado de la República,2021-01-27,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_02.pdf,45
+3,Senado de la República,2021-02-01,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_03.pdf,6
+4,Senado de la República,2021-02-03,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_04.pdf,32
+5,Senado de la República,2021-02-03,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_05.pdf,13
+6,Cámara de Representantes,2021-02-04,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_06.pdf,38
+7,Cámara de Representantes,2021-02-04,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_07.pdf,20
+8,Cámara de Representantes,2021-02-08,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_08.pdf,39
+9,Cámara de Representantes,2021-02-08,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_09.pdf,23
+10,Cámara de Representantes,2021-02-09,71,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_10.pdf,121
+11,Senado de la República,2021-02-10,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_11.pdf,34
+12,Senado de la República,2021-02-10,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_12.pdf,20
+13,Senado de la República,2021-02-10,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_13.pdf,5
+14,Senado de la República,2021-02-11,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_14.pdf,15
+15,Senado de la República,2021-02-11,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_15.pdf,34
+16,Senado de la República,2021-02-11,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_16.pdf,11
+17,Cámara de Representantes,2021-02-11,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_17.pdf,88
+18,Cámara de Representantes,2021-02-11,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_18.pdf,23
+19,Cámara de Representantes,2021-02-11,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_19.pdf,53
+20,Senado de la República,2021-02-12,70,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_20.pdf,190
+21,Senado de la República,2021-02-12,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_21.pdf,253
+22,Senado de la República,2021-02-12,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_22.pdf,80
+23,Senado de la República,2021-02-12,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_23.pdf,83
+24,Senado de la República,2021-02-12,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_24.pdf,58
+25,Senado de la República,2021-02-12,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_25.pdf,66
+26,Senado de la República,2021-02-12,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_26.pdf,105
+27,Senado de la República,2021-02-15,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_27.pdf,3
+28,Cámara de Representantes,2021-02-15,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_28.pdf,9
+29,Cámara de Representantes,2021-02-15,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_29.pdf,55
+30,Cámara de Representantes,2021-02-15,69,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_30.pdf,34
+31,Cámara de Representantes,2021-02-15,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_31.pdf,29
+32,Cámara de Representantes,2021-02-15,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_32.pdf,55
+33,Cámara de Representantes,2021-02-15,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_33.pdf,78
+34,Cámara de Representantes,2021-02-15,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_34.pdf,46
+35,Cámara de Representantes,2021-02-15,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_35.pdf,29
+36,Senado de la República,2021-02-16,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_36.pdf,11
+37,Cámara de Representantes,2021-02-16,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_37.pdf,16
+38,Cámara de Representantes,2021-02-16,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_38.pdf,22
+39,Cámara de Representantes,2021-02-17,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_39.pdf,261
+40,Cámara de Representantes,2021-02-17,68,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_40.pdf,30
+41,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_41.pdf,42
+42,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_42.pdf,42
+43,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_43.pdf,27
+44,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_44.pdf,41
+45,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_45.pdf,35
+46,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_46.pdf,45
+47,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_47.pdf,25
+48,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_48.pdf,32
+49,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_49.pdf,45
+50,Cámara de Representantes,2021-02-17,67,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_50.pdf,17
+51,Cámara de Representantes,2021-02-17,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_51.pdf,28
+52,Cámara de Representantes,2021-02-17,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_52.pdf,16
+53,Cámara de Representantes,2021-02-17,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_53.pdf,31
+54,Cámara de Representantes,2021-02-17,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_54.pdf,38
+55,Cámara de Representantes,2021-02-17,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_55.pdf,33
+56,Cámara de Representantes,2021-02-17,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_56.pdf,26
+57,Senado de la República,2021-02-18,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_57.pdf,69
+58,Senado de la República,2021-02-18,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_58.pdf,38
+59,Senado de la República,2021-02-18,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_59.pdf,10
+60,Senado de la República,2021-02-18,66,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_60.pdf,19
+61,Senado de la República,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_61.pdf,25
+62,Senado de la República,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_62.pdf,26
+63,Senado de la República,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_63.pdf,27
+64,Senado de la República,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_64.pdf,32
+65,Cámara de Representantes,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_65.pdf,25
+66,Cámara de Representantes,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_66.pdf,29
+67,Senado de la República,2021-02-22,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_67.pdf,44
+68,Cámara de Representantes,2021-02-23,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_68.pdf,26
+69,Cámara de Representantes,2021-02-23,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_69.pdf,35
+70,Cámara de Representantes,2021-02-23,65,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_70.pdf,30
+71,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_71.pdf,9
+72,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_72.pdf,40
+73,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_73.pdf,98
+74,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_74.pdf,40
+75,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_75.pdf,26
+76,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_76.pdf,30
+77,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_77.pdf,32
+78,Cámara de Representantes,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_78.pdf,33
+79,Senado de la República,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_79.pdf,75
+80,Senado de la República,2021-02-24,64,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_80.pdf,149
+81,Cámara de Representantes,2021-02-25,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_81.pdf,17
+82,Cámara de Representantes,2021-02-25,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_82.pdf,12
+83,Senado de la República,2021-02-26,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_83.pdf,19
+84,Senado de la República,2021-02-26,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_84.pdf,26
+85,Senado de la República,2021-02-26,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_85.pdf,15
+86,Senado de la República,2021-03-01,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_86.pdf,8
+87,Senado de la República,2021-03-01,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_87.pdf,96
+88,Senado de la República,2021-03-01,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_88.pdf,80
+89,Senado de la República,2021-03-01,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_89.pdf,32
+90,Senado de la República,2021-03-02,63,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_90.pdf,118
+92,Senado de la República,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_92.pdf,54
+93,Cámara de Representantes,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_93.pdf,75
+94,Cámara de Representantes,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_94.pdf,81
+95,Cámara de Representantes,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_95.pdf,64
+96,Cámara de Representantes,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_96.pdf,29
+97,Cámara de Representantes,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_97.pdf,40
+98,Senado de la República,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_98.pdf,71
+99,Senado de la República,2021-03-02,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_99.pdf,25
+100,Cámara de Representantes,2021-03-03,62,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_100.pdf,8
+101,Cámara de Representantes,2021-03-03,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_101.pdf,20
+102,Cámara de Representantes,2021-03-03,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_102.pdf,19
+103,Senado de la República,2021-03-04,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_103.pdf,7
+104,Cámara de Representantes,2021-03-04,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_104.pdf,119
+105,Senado de la República,2021-03-05,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_105.pdf,45
+106,Senado de la República,2021-03-08,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_106.pdf,21
+107,Senado de la República,2021-03-08,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_107.pdf,12
+108,Senado de la República,2021-03-08,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_108.pdf,42
+109,Senado de la República,2021-03-08,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_109.pdf,101
+110,Senado de la República,2021-03-08,61,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_110.pdf,38
+111,Senado de la República,2021-03-08,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_111.pdf,6
+112,Senado de la República,2021-03-08,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_112.pdf,31
+113,Senado de la República,2021-03-10,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_113.pdf,4
+114,Cámara de Representantes,2021-03-10,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_114.pdf,28
+115,Cámara de Representantes,2021-03-10,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_115.pdf,51
+116,Cámara de Representantes,2021-03-10,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_116.pdf,26
+117,Cámara de Representantes,2021-03-11,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_117.pdf,19
+118,Cámara de Representantes,2021-03-11,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_118.pdf,21
+119,Cámara de Representantes,2021-03-11,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_119.pdf,4
+120,Senado de la República,2021-03-11,60,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_120.pdf,15
+121,Cámara de Representantes,2021-03-11,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_121.pdf,124
+122,Cámara de Representantes,2021-03-11,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_122.pdf,269
+123,Cámara de Representantes,2021-03-11,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_123.pdf,12
+124,Senado de la República,2021-03-12,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_124.pdf,43
+125,Senado de la República,2021-03-15,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_125.pdf,15
+126,Senado de la República,2021-03-15,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_126.pdf,27
+127,Senado de la República,2021-03-15,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_127.pdf,18
+128,Senado de la República,2021-03-15,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_128.pdf,28
+129,Cámara de Representantes,2021-03-15,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_129.pdf,24
+130,Cámara de Representantes,2021-03-15,59,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_130.pdf,14
+131,Cámara de Representantes,2021-03-15,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_131.pdf,51
+132,Cámara de Representantes,2021-03-15,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_132.pdf,52
+133,Cámara de Representantes,2021-03-15,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_133.pdf,66
+134,Senado de la República,2021-03-15,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_134.pdf,50
+135,Cámara de Representantes,2021-03-16,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_135.pdf,18
+136,Cámara de Representantes,2021-03-15,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_136.pdf,77
+137,Cámara de Representantes,2021-03-16,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_137.pdf,73
+138,Senado de la República,2021-03-17,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_138.pdf,23
+139,Senado de la República,2021-03-17,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_139.pdf,26
+140,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_140.pdf,39
+141,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_141.pdf,71
+142,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_142.pdf,39
+143,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_143.pdf,11
+144,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_144.pdf,84
+145,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_145.pdf,24
+146,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_146.pdf,13
+147,Senado de la República,2021-03-18,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_147.pdf,32
+148,Senado de la República,2021-03-19,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_148.pdf,96
+149,Senado de la República,2021-03-19,57,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_149.pdf,157
+150,Senado de la República,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_150.pdf,172
+151,Senado de la República,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_151.pdf,269
+152,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_152.pdf,22
+153,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_153.pdf,26
+154,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_154.pdf,20
+155,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_155.pdf,22
+156,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_156.pdf,24
+157,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_157.pdf,31
+158,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_158.pdf,31
+159,Cámara de Representantes,2021-03-19,56,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_159.pdf,44
+160,Senado de la República,2021-03-19,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_160.pdf,12
+161,Senado de la República,2021-03-19,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_161.pdf,33
+162,Senado de la República,2021-03-19,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_162.pdf,16
+163,Cámara de Representantes,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_163.pdf,44
+164,Senado de la República,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_164.pdf,24
+165,Senado de la República,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_165.pdf,25
+166,Senado de la República,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_166.pdf,20
+167,Senado de la República,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_167.pdf,23
+168,Senado de la República,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_168.pdf,17
+169,Cámara de Representantes,2021-03-23,55,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_169.pdf,29
+170,Cámara de Representantes,2021-03-23,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_170.pdf,29
+171,Senado de la República,2021-03-23,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_171.pdf,116
+172,Cámara de Representantes,2021-03-23,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_172.pdf,28
+173,Senado de la República,2021-03-23,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_173.pdf,5
+174,Senado de la República,2021-03-23,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_174.pdf,8
+175,Senado de la República,2021-03-23,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_175.pdf,44
+176,Senado de la República,2021-03-24,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_176.pdf,29
+177,Senado de la República,2021-03-24,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_177.pdf,45
+178,Cámara de Representantes,2021-03-24,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_178.pdf,121
+179,Cámara de Representantes,2021-03-24,54,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_179.pdf,157
+180,Senado de la República,2021-03-24,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_180.pdf,30
+181,Senado de la República,2021-03-24,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_181.pdf,28
+182,Senado de la República,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_182.pdf,63
+183,Senado de la República,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_183.pdf,14
+184,Senado de la República,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_184.pdf,16
+185,Senado de la República,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_185.pdf,39
+186,Cámara de Representantes,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_186.pdf,23
+187,Cámara de Representantes,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_187.pdf,21
+188,Senado de la República,2021-03-25,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_188.pdf,10
+189,Cámara de Representantes,2021-03-26,53,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_189.pdf,22
+190,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_190.pdf,28
+191,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_191.pdf,23
+192,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_192.pdf,25
+193,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_193.pdf,26
+194,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_194.pdf,26
+195,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_195.pdf,27
+196,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_196.pdf,35
+197,Cámara de Representantes,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_197.pdf,216
+198,Senado de la República,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_198.pdf,6
+199,Senado de la República,2021-03-26,52,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_199.pdf,43
+200,Senado de la República,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_200.pdf,34
+201,Senado de la República,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_201.pdf,53
+202,Senado de la República,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_202.pdf,11
+203,Cámara de Representantes,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_203.pdf,36
+204,Cámara de Representantes,2021-03-16,58,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_204.pdf,51
+205,Cámara de Representantes,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_205.pdf,16
+206,Cámara de Representantes,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_206.pdf,87
+207,Cámara de Representantes,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_207.pdf,37
+208,Cámara de Representantes,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_208.pdf,44
+209,Cámara de Representantes,2021-03-26,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_209.pdf,18
+210,Senado de la República,2021-03-30,51,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_210.pdf,4
+211,Cámara de Representantes,2021-03-30,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_211.pdf,21
+212,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_212.pdf,17
+213,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_213.pdf,28
+214,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_214.pdf,11
+215,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_215.pdf,11
+216,Cámara de Representantes,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_216.pdf,9
+217,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_217.pdf,48
+218,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_218.pdf,41
+219,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_219.pdf,103
+220,Senado de la República,2021-04-05,50,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_220.pdf,63
+221,Senado de la República,2021-04-05,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_221.pdf,26
+222,Senado de la República,2021-04-05,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_222.pdf,10
+223,Senado de la República,2021-04-06,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_223.pdf,16
+224,Cámara de Representantes,2021-04-06,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_224.pdf,29
+225,Cámara de Representantes,2021-04-06,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_225.pdf,108
+226,Senado de la República,2021-04-06,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_226.pdf,32
+227,Senado de la República,2021-04-07,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_227.pdf,26
+228,Senado de la República,2021-04-07,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_228.pdf,16
+229,Senado de la República,2021-04-07,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_229.pdf,22
+230,Cámara de Representantes,2021-04-07,49,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_230.pdf,24
+231,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_231.pdf,24
+232,Cámara de Representantes,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_232.pdf,12
+233,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_233.pdf,25
+234,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_234.pdf,24
+235,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_235.pdf,106
+236,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_236.pdf,25
+237,Cámara de Representantes,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_237.pdf,196
+238,Cámara de Representantes,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_238.pdf,140
+239,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_239.pdf,25
+240,Senado de la República,2021-04-07,48,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_240.pdf,25
+241,Senado de la República,2021-04-07,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_241.pdf,28
+242,Senado de la República,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_242.pdf,59
+243,Cámara de Representantes,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_243.pdf,88
+244,Senado de la República,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_244.pdf,11
+245,Cámara de Representantes,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_245.pdf,26
+246,Cámara de Representantes,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_246.pdf,24
+247,Cámara de Representantes,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_247.pdf,29
+248,Cámara de Representantes,2021-04-08,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_248.pdf,22
+249,Senado de la República,2021-04-09,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_249.pdf,36
+250,Senado de la República,2021-04-09,47,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_250.pdf,40
+251,Senado de la República,2021-04-09,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_251.pdf,33
+252,Senado de la República,2021-04-09,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_252.pdf,15
+253,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_253.pdf,52
+254,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_254.pdf,31
+255,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_255.pdf,41
+256,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_256.pdf,36
+257,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_257.pdf,40
+258,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_258.pdf,28
+259,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_259.pdf,21
+260,Senado de la República,2021-04-12,46,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_260.pdf,48
+261,Senado de la República,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_261.pdf,16
+262,Senado de la República,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_262.pdf,53
+263,Senado de la República,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_263.pdf,45
+264,Senado de la República,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_264.pdf,37
+265,Senado de la República,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_265.pdf,6
+266,Cámara de Representantes,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_266.pdf,18
+267,Cámara de Representantes,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_267.pdf,245
+268,Cámara de Representantes,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_268.pdf,15
+269,Cámara de Representantes,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_269.pdf,20
+270,Cámara de Representantes,2021-04-12,45,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_270.pdf,27
+271,Cámara de Representantes,2021-04-12,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_271.pdf,4
+272,Senado de la República,2021-04-12,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_272.pdf,7
+273,Senado de la República,2021-04-13,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_273.pdf,27
+274,Senado de la República,2021-04-13,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_274.pdf,51
+275,Senado de la República,2021-04-13,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_275.pdf,63
+276,Senado de la República,2021-04-13,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_276.pdf,4
+277,Senado de la República,2021-04-13,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_277.pdf,15
+278,Senado de la República,2021-04-13,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_278.pdf,9
+279,Senado de la República,2021-04-14,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_279.pdf,16
+280,Senado de la República,2021-04-14,44,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_280.pdf,8
+281,Senado de la República,2021-04-14,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_281.pdf,34
+282,Senado de la República,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_282.pdf,30
+283,Senado de la República,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_283.pdf,12
+284,Senado de la República,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_284.pdf,12
+285,Cámara de Representantes,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_285.pdf,122
+286,Cámara de Representantes,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_286.pdf,88
+287,Cámara de Representantes,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_287.pdf,149
+288,Cámara de Representantes,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_288.pdf,49
+289,Cámara de Representantes,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_289.pdf,81
+290,Senado de la República,2021-04-15,43,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_290.pdf,5
+291,Cámara de Representantes,2021-04-15,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_291.pdf,32
+292,Senado de la República,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_292.pdf,22
+293,Senado de la República,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_293.pdf,26
+294,Senado de la República,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_294.pdf,44
+295,Cámara de Representantes,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_295.pdf,28
+296,Cámara de Representantes,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_296.pdf,28
+297,Cámara de Representantes,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_297.pdf,162
+298,Cámara de Representantes,2021-04-16,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_298.pdf,152
+299,Senado de la República,2021-04-19,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_299.pdf,9
+300,Senado de la República,2021-04-19,42,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_300.pdf,8
+301,Cámara de Representantes,2021-04-19,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_301.pdf,40
+302,Senado de la República,2021-04-20,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_302.pdf,16
+303,Cámara de Representantes,2021-04-20,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_303.pdf,27
+304,Senado de la República,2021-04-20,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_304.pdf,25
+305,Senado de la República,2021-04-20,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_305.pdf,15
+306,Senado de la República,2021-04-20,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_306.pdf,28
+307,Senado de la República,2021-04-20,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_307.pdf,42
+308,Senado de la República,2021-04-21,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_308.pdf,11
+309,Cámara de Representantes,2021-04-22,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_309.pdf,30
+310,Cámara de Representantes,2021-04-22,41,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_310.pdf,34
+311,Cámara de Representantes,2021-04-22,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_311.pdf,33
+312,Senado de la República,2021-04-22,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_312.pdf,9
+313,Cámara de Representantes,2021-04-22,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_313.pdf,72
+314,Senado de la República,2021-04-22,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_314.pdf,20
+315,Senado de la República,2021-04-22,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_315.pdf,18
+316,Senado de la República,2021-04-22,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_316.pdf,11
+317,Cámara de Representantes,2021-04-23,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_317.pdf,51
+318,Cámara de Representantes,2021-04-23,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_318.pdf,81
+319,Cámara de Representantes,2021-04-23,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_319.pdf,20
+320,Cámara de Representantes,2021-04-23,40,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_320.pdf,54
+321,Cámara de Representantes,2021-04-23,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_321.pdf,33
+322,Cámara de Representantes,2021-04-23,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_322.pdf,20
+323,Cámara de Representantes,2021-04-23,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_323.pdf,12
+324,Cámara de Representantes,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_324.pdf,44
+325,Cámara de Representantes,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_325.pdf,31
+326,Cámara de Representantes,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_326.pdf,32
+327,Senado de la República,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_327.pdf,12
+328,Cámara de Representantes,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_328.pdf,21
+329,Senado de la República,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_329.pdf,21
+330,Cámara de Representantes,2021-04-26,39,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_330.pdf,17
+331,Cámara de Representantes,2021-04-26,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_331.pdf,18
+332,Cámara de Representantes,2021-04-26,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_332.pdf,43
+333,Cámara de Representantes,2021-04-26,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_333.pdf,76
+334,Cámara de Representantes,2021-04-26,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_334.pdf,122
+335,Senado de la República,2021-04-27,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_335.pdf,96
+336,Cámara de Representantes,2021-04-27,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_336.pdf,31
+337,Senado de la República,2021-04-27,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_337.pdf,21
+338,Senado de la República,2021-04-27,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_338.pdf,20
+339,Senado de la República,2021-04-27,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_339.pdf,9
+340,Cámara de Representantes,2021-04-27,38,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_340.pdf,58
+341,Senado de la República,2021-04-27,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_341.pdf,10
+342,Cámara de Representantes,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_342.pdf,33
+343,Cámara de Representantes,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_343.pdf,29
+344,Cámara de Representantes,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_344.pdf,18
+345,Cámara de Representantes,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_345.pdf,28
+346,Cámara de Representantes,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_346.pdf,20
+347,Senado de la República,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_347.pdf,10
+348,Senado de la República,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_348.pdf,52
+349,Senado de la República,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_349.pdf,60
+350,Cámara de Representantes,2021-04-28,37,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_350.pdf,10
+351,Cámara de Representantes,2021-04-28,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_351.pdf,26
+352,Senado de la República,2021-04-29,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_352.pdf,134
+353,Senado de la República,2021-04-29,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_353.pdf,16
+354,Senado de la República,2021-04-29,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_354.pdf,17
+355,Cámara de Representantes,2021-04-30,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_355.pdf,112
+356,Cámara de Representantes,2021-04-30,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_356.pdf,23
+357,Cámara de Representantes,2021-04-30,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_357.pdf,25
+358,Cámara de Representantes,2021-04-30,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_358.pdf,23
+359,Cámara de Representantes,2021-04-30,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_359.pdf,39
+360,Senado de la República,2021-04-30,36,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_360.pdf,62
+361,Senado de la República,2021-04-30,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_361.pdf,17
+362,Cámara de Representantes,2021-04-30,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_362.pdf,13
+363,Senado de la República,2021-04-30,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_363.pdf,18
+364,Senado de la República,2021-05-03,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_364.pdf,13
+365,Senado de la República,2021-05-03,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_365.pdf,5
+366,Senado de la República,2021-05-03,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_366.pdf,9
+367,Senado de la República,2021-05-03,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_367.pdf,15
+368,Cámara de Representantes,2021-05-03,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_368.pdf,6
+369,Senado de la República,2021-05-03,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_369.pdf,5
+370,Senado de la República,2021-05-04,35,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_370.pdf,10
+371,Senado de la República,2021-05-04,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_371.pdf,38
+372,Senado de la República,2021-05-04,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_372.pdf,48
+373,Senado de la República,2021-05-04,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_373.pdf,34
+374,Senado de la República,2021-05-04,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_374.pdf,15
+375,Senado de la República,2021-05-04,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_375.pdf,32
+376,Senado de la República,2021-05-04,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_376.pdf,19
+377,Senado de la República,2021-05-05,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_377.pdf,38
+378,Cámara de Representantes,2021-05-05,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_378.pdf,37
+379,Senado de la República,2021-05-05,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_379.pdf,39
+380,Senado de la República,2021-05-05,34,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_380.pdf,21
+381,Senado de la República,2021-05-05,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_381.pdf,27
+382,Senado de la República,2021-05-05,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_382.pdf,38
+383,Cámara de Representantes,2021-05-05,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_383.pdf,15
+384,Cámara de Representantes,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_384.pdf,48
+385,Cámara de Representantes,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_385.pdf,41
+386,Cámara de Representantes,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_386.pdf,38
+387,Cámara de Representantes,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_387.pdf,37
+388,Senado de la República,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_388.pdf,25
+389,Senado de la República,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_389.pdf,22
+390,Senado de la República,2021-05-06,33,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_390.pdf,20
+391,Senado de la República,2021-05-06,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_391.pdf,11
+392,Senado de la República,2021-05-06,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_392.pdf,11
+393,Cámara de Representantes,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_393.pdf,125
+394,Cámara de Representantes,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_394.pdf,110
+395,Cámara de Representantes,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_395.pdf,102
+396,Cámara de Representantes,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_396.pdf,26
+397,Senado de la República,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_397.pdf,6
+398,Senado de la República,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_398.pdf,26
+399,Cámara de Representantes,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_399.pdf,25
+400,Cámara de Representantes,2021-05-07,32,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_400.pdf,25
+401,Cámara de Representantes,2021-05-07,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_401.pdf,23
+402,Senado de la República,2021-05-07,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_402.pdf,12
+403,Cámara de Representantes,2021-05-07,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_403.pdf,16
+404,Senado de la República,2021-05-10,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_404.pdf,24
+405,Senado de la República,2021-05-10,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_405.pdf,9
+406,Senado de la República,2021-05-10,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_406.pdf,19
+407,Senado de la República,2021-05-11,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_407.pdf,17
+408,Cámara de Representantes,2021-05-11,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_408.pdf,16
+409,Senado de la República,2021-05-12,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_409.pdf,16
+410,Senado de la República,2021-05-12,31,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_410.pdf,19
+411,Senado de la República,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_411.pdf,8
+412,Senado de la República,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_412.pdf,23
+413,Senado de la República,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_413.pdf,16
+414,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_414.pdf,24
+415,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_415.pdf,30
+416,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_416.pdf,33
+417,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_417.pdf,31
+418,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_418.pdf,17
+419,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_419.pdf,13
+420,Cámara de Representantes,2021-05-12,30,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_420.pdf,33
+421,Senado de la República,2021-05-13,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_421.pdf,15
+422,Senado de la República,2021-05-13,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_422.pdf,18
+423,Senado de la República,2021-05-13,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_423.pdf,7
+424,Cámara de Representantes,2021-05-13,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_424.pdf,18
+425,Cámara de Representantes,2021-05-13,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_425.pdf,11
+426,Cámara de Representantes,2021-05-13,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_426.pdf,5
+427,Senado de la República,2021-05-14,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_427.pdf,24
+428,Senado de la República,2021-05-14,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_428.pdf,9
+429,Senado de la República,2021-05-14,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_429.pdf,40
+430,Senado de la República,2021-05-14,29,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_430.pdf,10
+431,Senado de la República,2021-05-14,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_431.pdf,54
+432,Senado de la República,2021-05-14,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_432.pdf,13
+433,Senado de la República,2021-05-14,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_433.pdf,6
+434,Cámara de Representantes,2021-05-14,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_434.pdf,21
+435,Cámara de Representantes,2021-05-14,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_435.pdf,23
+436,Cámara de Representantes,2021-05-14,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_436.pdf,31
+437,Senado de la República,2021-05-18,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_437.pdf,15
+438,Senado de la República,2021-05-18,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_438.pdf,19
+439,Senado de la República,2021-05-18,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_439.pdf,34
+440,Senado de la República,2021-05-18,28,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_440.pdf,28
+441,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_441.pdf,22
+442,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_442.pdf,46
+443,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_443.pdf,49
+444,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_444.pdf,35
+445,Cámara de Representantes,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_445.pdf,14
+446,Cámara de Representantes,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_446.pdf,16
+447,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_447.pdf,11
+448,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_448.pdf,11
+449,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_449.pdf,17
+450,Senado de la República,2021-05-18,27,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_450.pdf,13
+451,Senado de la República,2021-05-19,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_451.pdf,12
+452,Senado de la República,2021-05-19,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_452.pdf,19
+453,Senado de la República,2021-05-19,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_453.pdf,16
+454,Senado de la República,2021-05-19,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_454.pdf,28
+455,Senado de la República,2021-05-20,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_455.pdf,8
+456,Senado de la República,2021-05-20,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_456.pdf,22
+457,Senado de la República,2021-05-20,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_457.pdf,39
+458,Senado de la República,2021-05-20,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_458.pdf,18
+459,Senado de la República,2021-05-20,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_459.pdf,35
+460,Senado de la República,2021-05-20,26,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_460.pdf,3
+461,Senado de la República,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_461.pdf,28
+462,Senado de la República,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_462.pdf,22
+463,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_463.pdf,32
+464,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_464.pdf,28
+465,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_465.pdf,28
+466,Senado de la República,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_466.pdf,48
+467,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_467.pdf,77
+468,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_468.pdf,68
+469,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_469.pdf,150
+470,Cámara de Representantes,2021-05-21,25,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_470.pdf,153
+471,Cámara de Representantes,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_471.pdf,125
+472,Cámara de Representantes,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_472.pdf,22
+473,Cámara de Representantes,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_473.pdf,20
+474,Senado de la República,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_474.pdf,12
+475,Cámara de Representantes,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_475.pdf,25
+476,Cámara de Representantes,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_476.pdf,30
+477,Cámara de Representantes,2021-05-24,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_477.pdf,43
+479,Cámara de Representantes,2021-05-24,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_479.pdf,22
+480,Cámara de Representantes,2021-05-21,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_480.pdf,42
+481,Cámara de Representantes,2021-05-24,24,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_481.pdf,12
+482,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_482.pdf,25
+483,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_483.pdf,18
+484,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_484.pdf,13
+485,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_485.pdf,78
+486,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_486.pdf,49
+487,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_487.pdf,9
+488,Cámara de Representantes,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_488.pdf,23
+489,Cámara de Representantes,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_489.pdf,25
+490,Senado de la República,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_490.pdf,41
+491,Cámara de Representantes,2021-05-24,23,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_491.pdf,17
+492,Senado de la República,2021-05-25,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_492.pdf,21
+493,Cámara de Representantes,2021-05-25,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_493.pdf,15
+494,Cámara de Representantes,2021-05-25,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_494.pdf,31
+495,Senado de la República,2021-05-25,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_495.pdf,48
+496,Cámara de Representantes,2021-05-25,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_496.pdf,12
+497,Senado de la República,2021-05-26,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_497.pdf,13
+498,Senado de la República,2021-05-26,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_498.pdf,17
+499,Senado de la República,2021-05-26,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_499.pdf,16
+500,Senado de la República,2021-05-26,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_500.pdf,25
+501,Senado de la República,2021-05-26,22,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_501.pdf,33
+502,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_502.pdf,84
+503,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_503.pdf,47
+504,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_504.pdf,31
+505,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_505.pdf,49
+506,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_506.pdf,35
+507,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_507.pdf,16
+508,Senado de la República,2021-05-26,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_508.pdf,31
+509,Senado de la República,2021-05-27,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_509.pdf,54
+510,Senado de la República,2021-05-27,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_510.pdf,30
+511,Senado de la República,2021-05-27,21,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_511.pdf,32
+512,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_512.pdf,26
+513,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_513.pdf,26
+514,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_514.pdf,41
+515,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_515.pdf,26
+516,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_516.pdf,16
+517,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_517.pdf,11
+518,Senado de la República,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_518.pdf,24
+519,Senado de la República,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_519.pdf,23
+520,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_520.pdf,10
+521,Cámara de Representantes,2021-05-28,20,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_521.pdf,28
+523,Cámara de Representantes,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_523.pdf,48
+524,Cámara de Representantes,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_524.pdf,65
+526,Senado de la República,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_526.pdf,43
+527,Senado de la República,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_527.pdf,56
+528,Senado de la República,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_528.pdf,16
+529,Cámara de Representantes,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_529.pdf,25
+530,Cámara de Representantes,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_530.pdf,40
+531,Cámara de Representantes,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_531.pdf,35
+532,Senado de la República,2021-05-28,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_532.pdf,17
+533,Senado de la República,2021-05-31,19,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_533.pdf,14
+534,Senado de la República,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_534.pdf,37
+535,Cámara de Representantes,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_535.pdf,31
+536,Cámara de Representantes,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_536.pdf,78
+537,Cámara de Representantes,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_537.pdf,27
+539,Cámara de Representantes,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_539.pdf,18
+541,Senado de la República,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_541.pdf,20
+542,Senado de la República,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_542.pdf,6
+543,Cámara de Representantes,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_543.pdf,20
+544,Cámara de Representantes,2021-05-31,18,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_544.pdf,9
+545,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_545.pdf,12
+546,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_546.pdf,23
+547,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_547.pdf,49
+548,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_548.pdf,5
+549,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_549.pdf,54
+550,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_550.pdf,145
+551,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_551.pdf,23
+552,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_552.pdf,44
+554,Senado de la República,2021-05-31,17,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_554.pdf,12
+555,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_555.pdf,10
+556,Cámara de Representantes,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_556.pdf,29
+557,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_557.pdf,12
+558,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_558.pdf,24
+559,Cámara de Representantes,2021-06-02,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_559.pdf,27
+560,Cámara de Representantes,2021-06-02,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_560.pdf,30
+561,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_561.pdf,12
+562,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_562.pdf,13
+563,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_563.pdf,7
+564,Senado de la República,2021-06-01,16,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_564.pdf,5
+565,Cámara de Representantes,2021-06-02,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_565.pdf,20
+566,Cámara de Representantes,2021-06-02,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_566.pdf,16
+567,Senado de la República,2021-06-03,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_567.pdf,23
+568,Senado de la República,2021-06-03,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_568.pdf,23
+569,Senado de la República,2021-06-03,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_569.pdf,23
+570,Senado de la República,2021-06-03,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_570.pdf,20
+572,Senado de la República,2021-06-04,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_572.pdf,7
+573,Cámara de Representantes,2021-06-04,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_573.pdf,22
+574,Cámara de Representantes,2021-06-04,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_574.pdf,22
+575,Cámara de Representantes,2021-06-04,15,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_575.pdf,18
+576,Cámara de Representantes,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_576.pdf,15
+577,Senado de la República,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_577.pdf,13
+578,Cámara de Representantes,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_578.pdf,34
+579,Cámara de Representantes,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_579.pdf,19
+580,Cámara de Representantes,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_580.pdf,24
+581,Senado de la República,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_581.pdf,17
+582,Senado de la República,2021-06-04,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_582.pdf,74
+583,Senado de la República,2021-06-05,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_583.pdf,81
+584,Cámara de Representantes,2021-06-07,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_584.pdf,19
+585,Senado de la República,2021-06-08,14,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_585.pdf,24
+588,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_588.pdf,24
+589,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_589.pdf,28
+592,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_592.pdf,22
+593,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_593.pdf,25
+594,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_594.pdf,21
+595,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_595.pdf,14
+596,Senado de la República,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_596.pdf,8
+597,Cámara de Representantes,2021-06-08,13,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_597.pdf,32
+598,Cámara de Representantes,2021-06-08,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_598.pdf,31
+599,Senado de la República,2021-06-08,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_599.pdf,6
+600,Senado de la República,2021-06-08,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_600.pdf,49
+601,Senado de la República,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_601.pdf,16
+602,Senado de la República,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_602.pdf,26
+603,Cámara de Representantes,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_603.pdf,34
+604,Senado de la República,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_604.pdf,46
+605,Senado de la República,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_605.pdf,60
+606,Cámara de Representantes,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_606.pdf,20
+607,Senado de la República,2021-06-09,12,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_607.pdf,45
+608,Senado de la República,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_608.pdf,17
+609,Senado de la República,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_609.pdf,14
+610,Cámara de Representantes,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_610.pdf,30
+611,Cámara de Representantes,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_611.pdf,59
+612,Cámara de Representantes,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_612.pdf,20
+613,Cámara de Representantes,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_613.pdf,28
+614,Senado de la República,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_614.pdf,12
+615,Cámara de Representantes,2021-06-09,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_615.pdf,9
+616,Senado de la República,2021-06-10,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_616.pdf,7
+617,Cámara de Representantes,2021-06-10,11,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_617.pdf,24
+618,Senado de la República,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_618.pdf,7
+619,Senado de la República,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_619.pdf,23
+620,Senado de la República,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_620.pdf,18
+621,Senado de la República,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_621.pdf,4
+624,Senado de la República,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_624.pdf,27
+625,Cámara de Representantes,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_625.pdf,8
+626,Cámara de Representantes,2021-06-10,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_626.pdf,71
+627,Senado de la República,2021-06-11,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_627.pdf,20
+628,Cámara de Representantes,2021-06-11,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_628.pdf,51
+629,Cámara de Representantes,2021-06-11,10,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_629.pdf,58
+630,Cámara de Representantes,2021-06-11,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_630.pdf,14
+631,Senado de la República,2021-06-11,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_631.pdf,9
+632,Senado de la República,2021-06-11,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_632.pdf,51
+633,Senado de la República,2021-06-11,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_633.pdf,16
+634,Senado de la República,2021-06-11,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_634.pdf,26
+635,Senado de la República,2021-06-15,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_635.pdf,54
+636,Senado de la República,2021-06-15,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_636.pdf,19
+637,Senado de la República,2021-06-15,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_637.pdf,19
+638,Senado de la República,2021-06-15,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_638.pdf,45
+639,Senado de la República,2021-06-15,9,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_639.pdf,11
+640,Cámara de Representantes,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_640.pdf,26
+641,Senado de la República,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_641.pdf,19
+642,Senado de la República,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_642.pdf,8
+643,Senado de la República,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_643.pdf,8
+644,Senado de la República,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_644.pdf,21
+645,Senado de la República,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_645.pdf,41
+646,Senado de la República,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_646.pdf,6
+647,Cámara de Representantes,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_647.pdf,7
+648,Cámara de Representantes,2021-06-15,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_648.pdf,62
+649,Senado de la República,2021-06-16,8,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_649.pdf,29
+650,Cámara de Representantes,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_650.pdf,19
+651,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_651.pdf,8
+652,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_652.pdf,7
+653,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_653.pdf,9
+654,Cámara de Representantes,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_654.pdf,21
+655,Cámara de Representantes,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_655.pdf,23
+656,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_656.pdf,14
+657,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_657.pdf,15
+658,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_658.pdf,18
+659,Senado de la República,2021-06-16,7,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_659.pdf,51
+660,Senado de la República,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_660.pdf,50
+661,Cámara de Representantes,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_661.pdf,8
+662,Senado de la República,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_662.pdf,7
+663,Senado de la República,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_663.pdf,10
+664,Senado de la República,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_664.pdf,26
+665,Cámara de Representantes,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_665.pdf,53
+666,Cámara de Representantes,2021-06-16,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_666.pdf,8
+667,Senado de la República,2021-06-17,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_667.pdf,6
+668,Senado de la República,2021-06-17,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_668.pdf,53
+669,Cámara de Representantes,2021-06-17,6,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_669.pdf,5
+670,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_670.pdf,26
+671,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_671.pdf,9
+672,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_672.pdf,8
+673,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_673.pdf,29
+674,Cámara de Representantes,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_674.pdf,6
+675,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_675.pdf,10
+676,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_676.pdf,9
+677,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_677.pdf,31
+678,Cámara de Representantes,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_678.pdf,9
+679,Senado de la República,2021-06-17,5,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_679.pdf,13
+680,Cámara de Representantes,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_680.pdf,5
+681,Senado de la República,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_681.pdf,8
+682,Cámara de Representantes,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_682.pdf,25
+683,Senado de la República,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_683.pdf,29
+684,Senado de la República,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_684.pdf,17
+685,Cámara de Representantes,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_685.pdf,31
+686,Cámara de Representantes,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_686.pdf,23
+687,Senado de la República,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_687.pdf,15
+689,Cámara de Representantes,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_689.pdf,22
+690,Senado de la República,2021-06-17,4,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_690.pdf,7
+691,Senado de la República,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_691.pdf,41
+692,Senado de la República,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_692.pdf,7
+693,Senado de la República,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_693.pdf,13
+694,Cámara de Representantes,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_694.pdf,11
+695,Cámara de Representantes,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_695.pdf,31
+696,Senado de la República,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_696.pdf,15
+697,Cámara de Representantes,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_697.pdf,17
+698,Cámara de Representantes,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_698.pdf,13
+699,Senado de la República,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_699.pdf,15
+700,Senado de la República,2021-06-18,3,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_700.pdf,13
+701,Cámara de Representantes,2021-06-18,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_701.pdf,7
+702,Senado de la República,2021-06-18,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_702.pdf,23
+704,Senado de la República,2021-06-18,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_704.pdf,7
+706,Senado de la República,2021-06-18,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_706.pdf,5
+707,Cámara de Representantes,2021-06-19,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_707.pdf,32
+708,Cámara de Representantes,2021-06-19,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_708.pdf,30
+709,Cámara de Representantes,2021-06-19,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_709.pdf,10
+710,Senado de la República,2021-06-19,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_710.pdf,11
+711,Cámara de Representantes,2021-06-19,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_711.pdf,11
+712,Senado de la República,2021-06-21,2,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_712.pdf,3
+713,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_713.pdf,21
+714,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_714.pdf,32
+715,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_715.pdf,50
+716,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_716.pdf,15
+717,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_717.pdf,36
+718,Senado de la República,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_718.pdf,10
+720,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_720.pdf,4
+721,Cámara de Representantes,2021-06-21,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_721.pdf,10
+722,Senado de la República,2021-06-22,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_722.pdf,81
+728,Senado de la República,2021-06-23,1,http://s3-us-west-1.amazonaws.com/gacetas/gaceta_728.pdf,3
