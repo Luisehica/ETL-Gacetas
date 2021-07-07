@@ -134,5 +134,15 @@ dmypy.json
 # EXE
 *.exe
 
-#
+# Visual Studio Code Folder
 .vscode/
+
+# Image folder
+*.png
+image/
+
+# Text folder
+text/
+
+# Json
+credentials.json
